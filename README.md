@@ -1,6 +1,6 @@
 ## Welcome to Machine Learning (Self-paced) page
 This is a backup replica for my high school cs elective course page. 
-The setting up part is credited to our beloved teacher, J. Rita is responsible for updating content.
+The setting up part is credited to our beloved teacher, J, and Rita is responsible for updating content.
 see: https://cs199.yuivy.cn/
 
 
