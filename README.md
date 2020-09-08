@@ -1,8 +1,6 @@
-## Welcome to Machine Learning (Self-paced) page
-This is a backup replica for my high school cs elective course page. 
-The setting up part is credited to our beloved teacher, J, and Rita is responsible for updating content.
-see: https://cs199.yuivy.cn/
-
+## Welcome to Rita Tan's page
+This was a backup replica for my high school cs elective course page, which was set up by our beloved teacher, J. (https://cs199.yuivy.cn/)
+Now, this site is a personal stage site for Rita Tan's code, design, and program management.
 
 ### Useful Information
 #### Markdown
