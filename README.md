@@ -1,5 +1,5 @@
 ## Welcome to Rita Tan's page
-This was a backup replica for my high school cs elective course page, which was set up by our beloved teacher, J. (https://cs199.yuivy.cn/)
+This was a backup replica for my high school CS elective course page, which was set up by our beloved teacher, J. (https://cs199.yuivy.cn/)
 Now, this site is a personal stage site for Rita Tan's code, design, and program management.
 
 ### Useful Information
